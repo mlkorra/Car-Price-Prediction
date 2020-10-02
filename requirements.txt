@@ -190,3 +190,4 @@ wrapt==1.12.1
 xdiagnose==3.8.4
 xkit==0.0.0
 zipp==0.6.0
+gunicorn
